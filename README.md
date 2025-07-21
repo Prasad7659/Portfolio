@@ -6,7 +6,7 @@ Built using **React** and **Vite**, and will be developed and customized soon.
 ## 🚧 Project Status
 
 ✅ Initialized  
-🛠️ Work in Progress — I will start building my portfolio from today.
+🛠️ Work in Progress — I will start building my portfolio from 20/07/2025.
 
 ## ⚙️ Tech Stack
 
