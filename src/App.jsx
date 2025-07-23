@@ -1,13 +1,13 @@
 import './App.css'
 import Header from './Header.jsx';
-import Image from './image.jsx';
+import About from './About.jsx';
 
 function App() {
 
   return (
     <>
       <Header />
-      <Image />
+      <About />
     </>
   )
 }
